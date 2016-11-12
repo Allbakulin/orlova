@@ -18,6 +18,7 @@
   <meta name="format-detection" content="telephone=no">
 	<script>
 		function redirectToMobileVersion () {
+			console.log(window.location)
 			window.location.pathname = 'm.html';
 		}
 		document.addEventListener("DOMContentLoaded", function(){
