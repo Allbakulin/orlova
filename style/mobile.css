@@ -46,7 +46,7 @@ body {
     /* line 48, mobile.scss */
     .main-col section.main .logo {
       display: inline-block;
-      background: url("/lil.jpg") no-repeat;
+      background: url("lil.jpg") no-repeat;
       /*background: url(../logo.jpg) no-repeat;*/
       background-size: cover;
       width: 44vw;
@@ -375,7 +375,7 @@ body {
     /* line 371, mobile.scss */
     .main-col section.contacts .logo {
       display: inline-block;
-      background: url("/lil.jpg") no-repeat;
+      background: url("lil.jpg") no-repeat;
       /*background: url(../logo.jpg) no-repeat;*/
       background-size: cover;
       width: 44vw;
