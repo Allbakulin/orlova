@@ -562,7 +562,7 @@ body {
     /* line 542, mobile.scss */
     .forms-col section.contacts .logo {
       display: inline-block;
-      background: url("https://pp.vk.me/c637219/v637219329/53b6/2IiBodF4d10.jpg") no-repeat;
+      background: url("/orlova/lil.jpg") no-repeat;
       /*background: url(../logo.jpg) no-repeat;*/
       background-size: cover;
       width: 35vw;
